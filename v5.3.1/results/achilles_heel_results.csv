@@ -1,0 +1,31 @@
+analysis_id	achilles_heel_warning	rule_id	record_count
+1020	WARNING: 1020-Number of condition era records by condition era start month; theres a 100% change in monthly count of events	22	
+	NOTIFICATION:Unmapped data over percentage threshold in:DrugExposure	27	
+	NOTIFICATION:Unmapped data over percentage threshold in:Observation	27	
+720	WARNING: 720-Number of drug exposure records  by drug exposure start month; theres a 100% change in monthly count of events	22	
+610	ERROR: 610-Number of procedure occurrence records outside valid observation period; count (n=17) should not be > 0	1	17
+	NOTIFICATION:Unmapped data over percentage threshold in:Condition	27	
+715	ERROR: 715 - Distribution of days_supply by drug_concept_id (count = 10); min value should not be negative	2	10
+820	WARNING: 820-Number of observation records  by observation start month; theres a 100% change in monthly count of events	22	
+602	WARNING: 602-Number of persons by procedure occurrence start month, by procedure_concept_id; 1 concepts have a 100% change in monthly count of events	23	1
+702	WARNING: 702-Number of persons by drug exposure start month, by drug_concept_id; 1 concepts have a 100% change in monthly count of events	23	1
+	NOTIFICATION: 99+ percent of persons have exactly one observation period	43	
+909	ERROR: 909-Number of drug eras outside valid observation period; count (n=50) should not be > 0	1	50
+810	ERROR: 810-Number of observation records outside valid observation period; count (n=146) should not be > 0	1	146
+711	ERROR: 711-Number of drug exposure records with end date < start date; count (n=12) should not be > 0	1	12
+	NOTIFICATION:Unmapped data over percentage threshold in:Measurement	27	
+410	ERROR: 410-Number of condition occurrence records outside valid observation period; count (n=141) should not be > 0	1	141
+1000	WARNING: 1000-Number of persons with at least one condition era, by condition_concept_id; data with unmapped concepts	6	
+800	WARNING: 800-Number of persons with at least one observation occurrence, by observation_concept_id; data with unmapped concepts	6	
+	NOTIFICATION: [GeneralPopulationOnly] Not all deciles represented at first observation	33	
+700	WARNING: 700-Number of persons with at least one drug exposure, by drug_concept_id; data with unmapped concepts	6	
+600	WARNING: 600-Number of persons with at least one procedure occurrence, by procedure_concept_id; data with unmapped concepts	6	
+	NOTIFICATION:Unmapped data over percentage threshold in:Procedure	27	
+715	WARNING: 715-Distribution of days_supply by drug_concept_id (count = 46); max value should not be > 180	24	46
+400	WARNING: 400-Number of persons with at least one condition occurrence, by condition_concept_id; data with unmapped concepts	6	
+710	ERROR: 710-Number of drug exposure records outside valid observation period; count (n=239) should not be > 0	1	239
+4	WARNING: 4-Number of persons by race; data with unmapped concepts	6	
+420	WARNING: 420-Number of condition occurrence records by condition occurrence start month; theres a 100% change in monthly count of events	22	
+5	WARNING: 5-Number of persons by ethnicity; data with unmapped concepts	6	
+620	WARNING: 620-Number of procedure occurrence records  by procedure occurrence start month; theres a 100% change in monthly count of events	22	
+1009	ERROR: 1009-Number of condition eras outside valid observation period; count (n=141) should not be > 0	1	141

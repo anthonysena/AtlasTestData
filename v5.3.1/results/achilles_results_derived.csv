@@ -1,0 +1,361 @@
+analysis_id	stratum_1	stratum_2	statistic_value	measure_id
+	condition_occurrence		8	UnmappedDataByDomain:SourceValueCnt
+	drug_exposure		115	UnmappedDataByDomain:SourceValueCnt
+	observation		103	UnmappedDataByDomain:SourceValueCnt
+	measurement		109	UnmappedDataByDomain:SourceValueCnt
+	procedure_occurrence		30	UnmappedDataByDomain:SourceValueCnt
+	2000005		1	Achilles:byAnalysis:RowCnt
+	2000601		1	Achilles:byAnalysis:RowCnt
+	725		125	Achilles:byAnalysis:RowCnt
+	2000404		1	Achilles:byAnalysis:RowCnt
+	2001009		1	Achilles:byAnalysis:RowCnt
+	1824		255	Achilles:byAnalysis:RowCnt
+	1801		127	Achilles:byAnalysis:RowCnt
+	202		1020	Achilles:byAnalysis:RowCnt
+	2000000		1	Achilles:byAnalysis:RowCnt
+	2000400		1	Achilles:byAnalysis:RowCnt
+	2000113		1	Achilles:byAnalysis:RowCnt
+	2000809		1	Achilles:byAnalysis:RowCnt
+	2000410		1	Achilles:byAnalysis:RowCnt
+	212		963	Achilles:byAnalysis:RowCnt
+	2000713		1	Achilles:byAnalysis:RowCnt
+	2000420		1	Achilles:byAnalysis:RowCnt
+	2000220		1	Achilles:byAnalysis:RowCnt
+	2000424		1	Achilles:byAnalysis:RowCnt
+	1900		365	Achilles:byAnalysis:RowCnt
+	2001825		1	Achilles:byAnalysis:RowCnt
+	2000820		1	Achilles:byAnalysis:RowCnt
+	1827		22	Achilles:byAnalysis:RowCnt
+	711		1	Achilles:byAnalysis:RowCnt
+	2000720		1	Achilles:byAnalysis:RowCnt
+	113		1	Achilles:byAnalysis:RowCnt
+	2000200		1	Achilles:byAnalysis:RowCnt
+	2000204		1	Achilles:byAnalysis:RowCnt
+	2000004		1	Achilles:byAnalysis:RowCnt
+	804		304	Achilles:byAnalysis:RowCnt
+	2000822		1	Achilles:byAnalysis:RowCnt
+	420		408	Achilles:byAnalysis:RowCnt
+	2001102		1	Achilles:byAnalysis:RowCnt
+	2001415		1	Achilles:byAnalysis:RowCnt
+	2001425		1	Achilles:byAnalysis:RowCnt
+	2001610		1	Achilles:byAnalysis:RowCnt
+	704		1849	Achilles:byAnalysis:RowCnt
+	2000814		1	Achilles:byAnalysis:RowCnt
+	701		124	Achilles:byAnalysis:RowCnt
+	2000504		1	Achilles:byAnalysis:RowCnt
+	602		937	Achilles:byAnalysis:RowCnt
+	2001		1	Achilles:byAnalysis:RowCnt
+	2000827		1	Achilles:byAnalysis:RowCnt
+	2000909		1	Achilles:byAnalysis:RowCnt
+	108		27	Achilles:byAnalysis:RowCnt
+	1001		104	Achilles:byAnalysis:RowCnt
+	902		129	Achilles:byAnalysis:RowCnt
+	221		94	Achilles:byAnalysis:RowCnt
+	600		86	Achilles:byAnalysis:RowCnt
+	2002125		1	Achilles:byAnalysis:RowCnt
+	2002102		1	Achilles:byAnalysis:RowCnt
+	820		436	Achilles:byAnalysis:RowCnt
+	2000609		1	Achilles:byAnalysis:RowCnt
+	2002101		1	Achilles:byAnalysis:RowCnt
+	2000613		1	Achilles:byAnalysis:RowCnt
+	901		83	Achilles:byAnalysis:RowCnt
+	2002		1	Achilles:byAnalysis:RowCnt
+	201		3	Achilles:byAnalysis:RowCnt
+	3		87	Achilles:byAnalysis:RowCnt
+	625		119	Achilles:byAnalysis:RowCnt
+	112		18	Achilles:byAnalysis:RowCnt
+	920		323	Achilles:byAnalysis:RowCnt
+	2001820		1	Achilles:byAnalysis:RowCnt
+	2000003		1	Achilles:byAnalysis:RowCnt
+	2001103		1	Achilles:byAnalysis:RowCnt
+	822		24	Achilles:byAnalysis:RowCnt
+	220		823	Achilles:byAnalysis:RowCnt
+	2000		1	Achilles:byAnalysis:RowCnt
+	2000891		1	Achilles:byAnalysis:RowCnt
+	425		111	Achilles:byAnalysis:RowCnt
+	2000208		1	Achilles:byAnalysis:RowCnt
+	5		2	Achilles:byAnalysis:RowCnt
+	2000910		1	Achilles:byAnalysis:RowCnt
+	401		104	Achilles:byAnalysis:RowCnt
+	909		1	Achilles:byAnalysis:RowCnt
+	2002003		1	Achilles:byAnalysis:RowCnt
+	610		1	Achilles:byAnalysis:RowCnt
+	2001822		1	Achilles:byAnalysis:RowCnt
+	2000625		1	Achilles:byAnalysis:RowCnt
+	2000119		1	Achilles:byAnalysis:RowCnt
+	2000116		1	Achilles:byAnalysis:RowCnt
+	2002002		1	Achilles:byAnalysis:RowCnt
+	2000812		1	Achilles:byAnalysis:RowCnt
+	2002000		1	Achilles:byAnalysis:RowCnt
+	2001409		1	Achilles:byAnalysis:RowCnt
+	2001002		1	Achilles:byAnalysis:RowCnt
+	2000791		1	Achilles:byAnalysis:RowCnt
+	2001827		1	Achilles:byAnalysis:RowCnt
+	2000302		1	Achilles:byAnalysis:RowCnt
+	225		1	Achilles:byAnalysis:RowCnt
+	1810		1	Achilles:byAnalysis:RowCnt
+	2000101		1	Achilles:byAnalysis:RowCnt
+	1822		127	Achilles:byAnalysis:RowCnt
+	2000405		1	Achilles:byAnalysis:RowCnt
+	2000691		1	Achilles:byAnalysis:RowCnt
+	2000525		1	Achilles:byAnalysis:RowCnt
+	2001020		1	Achilles:byAnalysis:RowCnt
+	2000602		1	Achilles:byAnalysis:RowCnt
+	2000207		1	Achilles:byAnalysis:RowCnt
+	111		17	Achilles:byAnalysis:RowCnt
+	404		175	Achilles:byAnalysis:RowCnt
+	2000010		1	Achilles:byAnalysis:RowCnt
+	2000920		1	Achilles:byAnalysis:RowCnt
+	1		1	Achilles:byAnalysis:RowCnt
+	2001202		1	Achilles:byAnalysis:RowCnt
+	800		24	Achilles:byAnalysis:RowCnt
+	791		802	Achilles:byAnalysis:RowCnt
+	2000824		1	Achilles:byAnalysis:RowCnt
+	2000411		1	Achilles:byAnalysis:RowCnt
+	2001008		1	Achilles:byAnalysis:RowCnt
+	891		42	Achilles:byAnalysis:RowCnt
+	2001812		1	Achilles:byAnalysis:RowCnt
+	2001823		1	Achilles:byAnalysis:RowCnt
+	2000118		1	Achilles:byAnalysis:RowCnt
+	2001408		1	Achilles:byAnalysis:RowCnt
+	2000409		1	Achilles:byAnalysis:RowCnt
+	2000620		1	Achilles:byAnalysis:RowCnt
+	2000901		1	Achilles:byAnalysis:RowCnt
+	200		3	Achilles:byAnalysis:RowCnt
+	2001413		1	Achilles:byAnalysis:RowCnt
+	4		4	Achilles:byAnalysis:RowCnt
+	1800		125	Achilles:byAnalysis:RowCnt
+	2000700		1	Achilles:byAnalysis:RowCnt
+	2000805		1	Achilles:byAnalysis:RowCnt
+	810		1	Achilles:byAnalysis:RowCnt
+	1000		104	Achilles:byAnalysis:RowCnt
+	2000800		1	Achilles:byAnalysis:RowCnt
+	1804		6981	Achilles:byAnalysis:RowCnt
+	400		104	Achilles:byAnalysis:RowCnt
+	2000701		1	Achilles:byAnalysis:RowCnt
+	2001802		1	Achilles:byAnalysis:RowCnt
+	2001101		1	Achilles:byAnalysis:RowCnt
+	410		1	Achilles:byAnalysis:RowCnt
+	2000804		1	Achilles:byAnalysis:RowCnt
+	2001201		1	Achilles:byAnalysis:RowCnt
+	2000510		1	Achilles:byAnalysis:RowCnt
+	705		125	Achilles:byAnalysis:RowCnt
+	402		201	Achilles:byAnalysis:RowCnt
+	2000114		1	Achilles:byAnalysis:RowCnt
+	2002200		1	Achilles:byAnalysis:RowCnt
+	904		214	Achilles:byAnalysis:RowCnt
+	2000109		1	Achilles:byAnalysis:RowCnt
+	823		24	Achilles:byAnalysis:RowCnt
+	720		868	Achilles:byAnalysis:RowCnt
+	2000325		1	Achilles:byAnalysis:RowCnt
+	2001500		1	Achilles:byAnalysis:RowCnt
+	2001600		1	Achilles:byAnalysis:RowCnt
+	2		2	Achilles:byAnalysis:RowCnt
+	2000810		1	Achilles:byAnalysis:RowCnt
+	2001804		1	Achilles:byAnalysis:RowCnt
+	102		57	Achilles:byAnalysis:RowCnt
+	1826		1	Achilles:byAnalysis:RowCnt
+	2002104		1	Achilles:byAnalysis:RowCnt
+	2000604		1	Achilles:byAnalysis:RowCnt
+	2001001		1	Achilles:byAnalysis:RowCnt
+	2001826		1	Achilles:byAnalysis:RowCnt
+	2000709		1	Achilles:byAnalysis:RowCnt
+	2000724		1	Achilles:byAnalysis:RowCnt
+	2000102		1	Achilles:byAnalysis:RowCnt
+	2000505		1	Achilles:byAnalysis:RowCnt
+	1807		129	Achilles:byAnalysis:RowCnt
+	116		1148	Achilles:byAnalysis:RowCnt
+	2001801		1	Achilles:byAnalysis:RowCnt
+	2000402		1	Achilles:byAnalysis:RowCnt
+	2000008		1	Achilles:byAnalysis:RowCnt
+	2000225		1	Achilles:byAnalysis:RowCnt
+	1891		1706	Achilles:byAnalysis:RowCnt
+	2000900		1	Achilles:byAnalysis:RowCnt
+	2000413		1	Achilles:byAnalysis:RowCnt
+	2001821		1	Achilles:byAnalysis:RowCnt
+	2000605		1	Achilles:byAnalysis:RowCnt
+	1823		127	Achilles:byAnalysis:RowCnt
+	2000202		1	Achilles:byAnalysis:RowCnt
+	10		104	Achilles:byAnalysis:RowCnt
+	2000813		1	Achilles:byAnalysis:RowCnt
+	2000301		1	Achilles:byAnalysis:RowCnt
+	2000600		1	Achilles:byAnalysis:RowCnt
+	2000201		1	Achilles:byAnalysis:RowCnt
+	12		5	Achilles:byAnalysis:RowCnt
+	2000112		1	Achilles:byAnalysis:RowCnt
+	2001004		1	Achilles:byAnalysis:RowCnt
+	2001818		1	Achilles:byAnalysis:RowCnt
+	2001805		1	Achilles:byAnalysis:RowCnt
+	109		100	Achilles:byAnalysis:RowCnt
+	900		81	Achilles:byAnalysis:RowCnt
+	2001900		1	Achilles:byAnalysis:RowCnt
+	0		1	Achilles:byAnalysis:RowCnt
+	2000012		1	Achilles:byAnalysis:RowCnt
+	2000011		1	Achilles:byAnalysis:RowCnt
+	827		1	Achilles:byAnalysis:RowCnt
+	2000725		1	Achilles:byAnalysis:RowCnt
+	2003		1	Achilles:byAnalysis:RowCnt
+	2002201		1	Achilles:byAnalysis:RowCnt
+	1004		175	Achilles:byAnalysis:RowCnt
+	2000705		1	Achilles:byAnalysis:RowCnt
+	2000826		1	Achilles:byAnalysis:RowCnt
+	2001824		1	Achilles:byAnalysis:RowCnt
+	826		1	Achilles:byAnalysis:RowCnt
+	2001010		1	Achilles:byAnalysis:RowCnt
+	2001814		1	Achilles:byAnalysis:RowCnt
+	2000704		1	Achilles:byAnalysis:RowCnt
+	2001501		1	Achilles:byAnalysis:RowCnt
+	2001414		1	Achilles:byAnalysis:RowCnt
+	2000300		1	Achilles:byAnalysis:RowCnt
+	2001891		1	Achilles:byAnalysis:RowCnt
+	1821		1	Achilles:byAnalysis:RowCnt
+	2000807		1	Achilles:byAnalysis:RowCnt
+	2000711		1	Achilles:byAnalysis:RowCnt
+	2000610		1	Achilles:byAnalysis:RowCnt
+	2000212		1	Achilles:byAnalysis:RowCnt
+	2000115		1	Achilles:byAnalysis:RowCnt
+	1805		127	Achilles:byAnalysis:RowCnt
+	1020		408	Achilles:byAnalysis:RowCnt
+	2000612		1	Achilles:byAnalysis:RowCnt
+	11		104	Achilles:byAnalysis:RowCnt
+	2000425		1	Achilles:byAnalysis:RowCnt
+	2000702		1	Achilles:byAnalysis:RowCnt
+	2000712		1	Achilles:byAnalysis:RowCnt
+	805		24	Achilles:byAnalysis:RowCnt
+	2000401		1	Achilles:byAnalysis:RowCnt
+	2002001		1	Achilles:byAnalysis:RowCnt
+	1009		1	Achilles:byAnalysis:RowCnt
+	2002105		1	Achilles:byAnalysis:RowCnt
+	2001810		1	Achilles:byAnalysis:RowCnt
+	825		126	Achilles:byAnalysis:RowCnt
+	702		3168	Achilles:byAnalysis:RowCnt
+	2000502		1	Achilles:byAnalysis:RowCnt
+	691		399	Achilles:byAnalysis:RowCnt
+	604		676	Achilles:byAnalysis:RowCnt
+	710		1	Achilles:byAnalysis:RowCnt
+	605		90	Achilles:byAnalysis:RowCnt
+	2001800		1	Achilles:byAnalysis:RowCnt
+	2000007		1	Achilles:byAnalysis:RowCnt
+	2000501		1	Achilles:byAnalysis:RowCnt
+	2000002		1	Achilles:byAnalysis:RowCnt
+	2000412		1	Achilles:byAnalysis:RowCnt
+	1802		7684	Achilles:byAnalysis:RowCnt
+	2000801		1	Achilles:byAnalysis:RowCnt
+	2000908		1	Achilles:byAnalysis:RowCnt
+	2001601		1	Achilles:byAnalysis:RowCnt
+	2001410		1	Achilles:byAnalysis:RowCnt
+	405		104	Achilles:byAnalysis:RowCnt
+	117		595	Achilles:byAnalysis:RowCnt
+	2001412		1	Achilles:byAnalysis:RowCnt
+	2000117		1	Achilles:byAnalysis:RowCnt
+	2000210		1	Achilles:byAnalysis:RowCnt
+	2001807		1	Achilles:byAnalysis:RowCnt
+	2000902		1	Achilles:byAnalysis:RowCnt
+	101		39	Achilles:byAnalysis:RowCnt
+	620		454	Achilles:byAnalysis:RowCnt
+	2000209		1	Achilles:byAnalysis:RowCnt
+	2001809		1	Achilles:byAnalysis:RowCnt
+	1820		701	Achilles:byAnalysis:RowCnt
+	2001000		1	Achilles:byAnalysis:RowCnt
+	700		117	Achilles:byAnalysis:RowCnt
+	119		1	Achilles:byAnalysis:RowCnt
+	2000110		1	Achilles:byAnalysis:RowCnt
+	2000904		1	Achilles:byAnalysis:RowCnt
+	2000111		1	Achilles:byAnalysis:RowCnt
+	2000221		1	Achilles:byAnalysis:RowCnt
+	1002		201	Achilles:byAnalysis:RowCnt
+	2000823		1	Achilles:byAnalysis:RowCnt
+	204		1057	Achilles:byAnalysis:RowCnt
+	2000108		1	Achilles:byAnalysis:RowCnt
+	807		24	Achilles:byAnalysis:RowCnt
+	2000802		1	Achilles:byAnalysis:RowCnt
+	2000710		1	Achilles:byAnalysis:RowCnt
+	2000009		1	Achilles:byAnalysis:RowCnt
+	2001100		1	Achilles:byAnalysis:RowCnt
+	2000001		1	Achilles:byAnalysis:RowCnt
+	801		24	Achilles:byAnalysis:RowCnt
+	2000509		1	Achilles:byAnalysis:RowCnt
+	110		594	Achilles:byAnalysis:RowCnt
+	2001200		1	Achilles:byAnalysis:RowCnt
+	1825		232	Achilles:byAnalysis:RowCnt
+	2001411		1	Achilles:byAnalysis:RowCnt
+	2002100		1	Achilles:byAnalysis:RowCnt
+	2000624		1	Achilles:byAnalysis:RowCnt
+	2001813		1	Achilles:byAnalysis:RowCnt
+	2000500		1	Achilles:byAnalysis:RowCnt
+	2000825		1	Achilles:byAnalysis:RowCnt
+	802		319	Achilles:byAnalysis:RowCnt
+	601		90	Achilles:byAnalysis:RowCnt
+	9202	2	0.94751521298174442191	Visit:Type:PersonWithAtLeastOne:byDecile:Percentage
+	9202	5	0.94953271028037383178	Visit:Type:PersonWithAtLeastOne:byDecile:Percentage
+	9201	1	0.00496894409937888199	Visit:Type:PersonWithAtLeastOne:byDecile:Percentage
+	9201	5	0.01744548286604361371	Visit:Type:PersonWithAtLeastOne:byDecile:Percentage
+	9201	2	0.00304259634888438134	Visit:Type:PersonWithAtLeastOne:byDecile:Percentage
+	9202	9	1.00000000000000000000	Visit:Type:PersonWithAtLeastOne:byDecile:Percentage
+	9202	1	0.93830227743271221532	Visit:Type:PersonWithAtLeastOne:byDecile:Percentage
+	9203	0	0.04236718224613315400	Visit:Type:PersonWithAtLeastOne:byDecile:Percentage
+	9203	7	0.02653247941445562672	Visit:Type:PersonWithAtLeastOne:byDecile:Percentage
+	9202	10	1.00000000000000000000	Visit:Type:PersonWithAtLeastOne:byDecile:Percentage
+	9202	6	0.96965247185511502692	Visit:Type:PersonWithAtLeastOne:byDecile:Percentage
+	9201	6	0.01223690651003426334	Visit:Type:PersonWithAtLeastOne:byDecile:Percentage
+	9203	4	0.04349070100143061516	Visit:Type:PersonWithAtLeastOne:byDecile:Percentage
+	9201	3	0.00499168053244592346	Visit:Type:PersonWithAtLeastOne:byDecile:Percentage
+	9202	3	0.94952856350526899612	Visit:Type:PersonWithAtLeastOne:byDecile:Percentage
+	9203	5	0.03302180685358255452	Visit:Type:PersonWithAtLeastOne:byDecile:Percentage
+	9203	2	0.04944219066937119675	Visit:Type:PersonWithAtLeastOne:byDecile:Percentage
+	9203	1	0.05672877846790890269	Visit:Type:PersonWithAtLeastOne:byDecile:Percentage
+	9202	0	0.95763281775386684600	Visit:Type:PersonWithAtLeastOne:byDecile:Percentage
+	9202	7	0.97346752058554437328	Visit:Type:PersonWithAtLeastOne:byDecile:Percentage
+	9203	6	0.01811062163485070974	Visit:Type:PersonWithAtLeastOne:byDecile:Percentage
+	9202	8	0.98809523809523809524	Visit:Type:PersonWithAtLeastOne:byDecile:Percentage
+	9202	4	0.95450643776824034335	Visit:Type:PersonWithAtLeastOne:byDecile:Percentage
+	9203	3	0.04547975596228508042	Visit:Type:PersonWithAtLeastOne:byDecile:Percentage
+			0	Device:ConceptCnt
+			127	Measurement:ConceptCnt
+			24	Observation:ConceptCnt
+			90	Procedure:ConceptCnt
+			0	Note:ConceptCnt
+	4		30	AgeAtFirstObsByDecile:PersonCnt
+	0		475	AgeAtFirstObsByDecile:PersonCnt
+	1		391	AgeAtFirstObsByDecile:PersonCnt
+	3		90	AgeAtFirstObsByDecile:PersonCnt
+	2		156	AgeAtFirstObsByDecile:PersonCnt
+			5	AgeAtFirstObsByDecile:DecileCnt
+			0	Death:DeathCause:ConceptCnt
+			0	Death:DeathType:ConceptCnt
+	38000275		38594	ach_605:GlobalCnt
+	38000276		8684	ach_805:GlobalCnt
+	38000280		539	ach_805:GlobalCnt
+	32020		8641	ach_405:GlobalCnt
+	581452		23851	ach_705:GlobalCnt
+	5001		343783	ach_1805:GlobalCnt
+	38000177		54664	ach_705:GlobalCnt
+			8641	ach_401:GlobalRowCnt
+			38594	ach_601:GlobalRowCnt
+			78515	ach_701:GlobalRowCnt
+			9223	ach_801:GlobalRowCnt
+			343783	ach_1801:GlobalRowCnt
+			98.4719864176570458	ach_2000:Percentage
+			98.1324278438030560	ach_2001:Percentage
+			98.4719864176570458	ach_2002:Percentage
+			100.0000000000000000	ach_2003:Percentage
+			588	UnmappedData:ach_401:GlobalRowCnt
+			7912	UnmappedData:ach_601:GlobalRowCnt
+			9205	UnmappedData:ach_701:GlobalRowCnt
+			8096	UnmappedData:ach_801:GlobalRowCnt
+			77493	UnmappedData:ach_1801:GlobalRowCnt
+			53750	Visit:InstanceCnt
+			104	Condition:ConceptCnt
+			3	Visit:ConceptCnt
+			2	Person:Ethnicity:ConceptCnt
+			4	Person:Race:ConceptCnt
+			0	Provider:SpecialtyCnt
+			124	DrugExposure:ConceptCnt
+			83	DrugEra:ConceptCnt
+	Condition		6.8047679666705242	UnmappedData:byDomain:Percentage
+	Procedure		20.5005959475566150	UnmappedData:byDomain:Percentage
+	DrugExposure		11.7238744189008470	UnmappedData:byDomain:Percentage
+	Observation		87.7805486284289277	UnmappedData:byDomain:Percentage
+	Measurement		22.5412542214129262	UnmappedData:byDomain:Percentage
+			17.9791461803878671	Meas:NoNumValue:Percentage
+				Note:NoteVisitRatio
